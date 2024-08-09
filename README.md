@@ -5,13 +5,13 @@ Your team is developing a screen in an already existing Library application for 
 Users can already login to this system using their username and password. 
 
 ## Objective
-### * To create a story map for a basic screen with following capabilities:
-      * Basic search functionality with results display
-      * Viewing basic book details(title, author, summary)
-      * Checking book availability
-      * Reserving a book
-      * Display of book's cover page
-      
-### * Prioritize the user stories based on their importance and implementation complexity
-### * You can use lucid or any other tools for this activity
-
+     ### * To create a story map for a basic screen with following capabilities:
+           * Basic search functionality with results display
+           * Viewing basic book details(title, author, summary)
+           * Checking book availability
+           * Reserving a book
+           * Display of book's cover page
+           
+     ### * Prioritize the user stories based on their importance and implementation complexity
+     ### * You can use lucid or any other tools for this activity
+     
