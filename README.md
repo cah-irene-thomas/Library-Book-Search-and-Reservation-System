@@ -17,5 +17,5 @@
                     * Display of book's cover page
            
           2. Prioritize the user stories based on their importance and implementation complexity
-          3. You can use lucid or any other tools for this activity
+          3. You can use lucid/mural or any other tools for this activity
      
