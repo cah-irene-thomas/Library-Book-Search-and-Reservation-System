@@ -1,8 +1,9 @@
 # Library-Book-Search-and-Reservation-System
 
 ## Background
-Your team is developing a screen in an already existing Library application for a local library. This screen allows users to search for books, check their availability, and reserve them online. 
-Users can already login to this system using their username and password. 
+          * Your team is developing a screen in an already existing Library application for a local library. 
+          * This screen allows users to search for books, check their availability, and reserve them online. 
+          * Users can already login to this system using their username and password. 
 
 ## Objective
           1. To create a story map for a basic screen with following capabilities:
