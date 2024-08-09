@@ -6,8 +6,8 @@ Users can already login to this system using their username and password.
 
 ## Objective
 To create a story map for a basic screen with following capabilities:
-      * Basic search functionality with results display
-      * Viewing basic book details(title, author, summary)
+      # Basic search functionality with results display
+      # Viewing basic book details(title, author, summary)
       * Checking book availability
       * Reserving a book
       * Display of book's cover page
