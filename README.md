@@ -12,5 +12,6 @@ Users can already login to this system using their username and password.
       * Reserving a book
       * Display of book's cover page
       
-After creating each story card in the story map prioritize them in the order they need to be worked on by your team. 
-You can use lucid or any other tools for this activity
+### Prioritize the user stories based on their importance and implementation complexity
+### You can use lucid or any other tools for this activity
+
